@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=02595c&height=180&section=header&text=Leandro%20Queiroz%20Trepador&fontSize=30&fontColor=f3ffce&animation=scaleIn" />
+
 ### Hi there 👋
 
 ## Oiii eu sou a Leandro Queiroz, programador.
