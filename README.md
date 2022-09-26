@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=02595c&height=180&section=header&text=Leandro%20Queiroz%20Trepador&fontSize=30&fontColor=f3ffce&animation=scaleIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=02595c&height=150&section=header&text=Leandro%20Queiroz%20Trepador&fontSize=30&fontColor=f3ffce&animation=scaleIn&fontAlignY=30&stroke=ffb642" />
 
 ### Hi there 👋
 
@@ -30,3 +30,5 @@
  
  
 </div>
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=leandroyellow)](https://github.com/ashutosh00710/github-readme-activity-graph)
