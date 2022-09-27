@@ -57,7 +57,6 @@
 ### Other Knowledge:
 <div>
   <img align="center" width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg'>
-  <img align="center" width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg'>
   <img align="center" width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img align="center" width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img align="center" width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
